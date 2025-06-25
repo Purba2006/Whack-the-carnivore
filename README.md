@@ -1,2 +1,1 @@
-# Learnify
-Learnify – Gamified Learning App for Kids .
+Whack a mole- A fun game designed to educate kids along with entertainment 
