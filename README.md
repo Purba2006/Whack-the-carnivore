@@ -1,1 +1,1 @@
-Whack a mole- A fun game designed to educate kids along with entertainment 
+Whack the carnivore- A fun game designed to educate kids along with entertainment 
