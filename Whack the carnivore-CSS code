@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url("Game\ bg.png");
+    background-size: cover;
+
+}
+
+#board {
+    width:540px;
+    height: 540px;
+    background-color: rgb(55, 255, 0);
+
+    margin:0 auto;
+    display: flex;
+    flex-wrap: wrap ;
+
+    background:url("Game\ soil.png");
+    background-size: cover;
+    border: 3px solid whitesmoke;
+    border-radius: 25px;
+
+}
+
+#board div {
+    /* board = 540x540, divide into 3x3 tiles--> 180x180 per div*/
+    width: 180px;
+    height: 180px;
+    background-image: url("Hole.png");
+    background-size: cover;
+}
+#board div img{
+    width: 180px;
+    height: 180px;
+}
